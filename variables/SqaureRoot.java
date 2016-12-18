@@ -4,7 +4,7 @@ public class SqaureRoot {
 
 	public static void main(String[] args) {
 		
-		// Calculate square root numbers from 1 to 5
+		// Calculate square root for numbers from 1 to 5.
 		
 		for(int i = 1; i <= 5; i++){
 			
